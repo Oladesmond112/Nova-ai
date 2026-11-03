@@ -1,0 +1,6 @@
+{
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
+  "name": "nova-ai-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-03"
+}
